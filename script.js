@@ -236,8 +236,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const bioMessages = [
-    "Fu*k Guns.lol & Fakecrime.bio got banned too often, so I created my own.",
-    "\"Hello, World!\""
+    "\"But why run from who you truly are, supressing yourself so others will like you?\"",
+    "\"Why hide your true self just to fit into a world that was never meant to define you?\"",
+    "\"Why dim your light just because others can't handle your glow?\"",
+    "\"Why chase acceptance if it means abandoning who you are?\"",
+    "\"What's the point of being loved for someone you're not?\"",
+    "\"How can you discover who you are if you spend your life hiding it?\""
   ];
   let bioText = '';
   let bioIndex = 0;
