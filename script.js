@@ -201,7 +201,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
 
-  const name = "JAQLIV";
+  const name = "James";
   let nameText = '';
   let nameIndex = 0;
   let isNameDeleting = false;
